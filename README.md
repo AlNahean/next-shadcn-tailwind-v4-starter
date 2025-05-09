@@ -26,3 +26,30 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 • 🎨 Built with [Tailwind CSS v4](https://tailwindcss.com/docs/configuration)
 
 • ⚡ Performance optimized: Type checking and ESLint disabled during build
+
+## 📝 Description
+
+This is a modern web application starter template that combines several powerful technologies:
+
+- **Next.js**: A React framework for production-grade applications
+- **Shadcn UI**: A collection of beautifully designed, accessible UI components
+- **Tailwind CSS v4**: A utility-first CSS framework for rapid UI development
+
+### ✨ Key Features
+
+- 🎯 Pre-configured development environment
+- 🔧 Easy setup with create-next-app
+- 🎨 Modern UI components with Shadcn
+- 📱 Fully responsive design
+- 🚀 Optimized performance
+- 🛠️ Developer-friendly tooling
+
+### 💻 Tech Stack
+
+- Next.js
+- Shadcn UI
+- Tailwind CSS v4
+- TypeScript (optional)
+- ESLint for code quality
+
+This template provides everything you need to start building modern web applications with best practices and optimal performance in mind.
